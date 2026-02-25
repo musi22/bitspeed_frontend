@@ -8,8 +8,9 @@ A visual drag-and-drop chatbot flow builder built with **React** and **React Flo
 
 ## 🚀 Live Demo
 
-> **[https://your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)**
-> *(Replace with your actual deployment URL after deploying)*
+> **[https://bitspeed-frontend-js.vercel.app/](https://bitspeed-frontend-js.vercel.app/)**
+> 
+> ✅ **Live and fully functional!**
 
 ---
 
