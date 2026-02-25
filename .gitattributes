@@ -1,0 +1,7 @@
+# Auto convert line endings to LF
+* text=auto
+*.js eol=lf
+*.jsx eol=lf
+*.json eol=lf
+*.md eol=lf
+*.css eol=lf
